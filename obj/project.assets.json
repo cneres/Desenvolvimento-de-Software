@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/Users/carlosneres/.nuget/packages/": {}
+    "C:\\Users\\gabri\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/carlosneres/OneDrive/Universidade Positivo/2021.2/Desenvolvimento/Desenvolvimento de Software/Desenvolvimento de Software.csproj",
+      "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Faculdade\\2021 - 2 Semestre\\Desenvolvimento de Software\\PetShop\\petshop\\Desenvolvimento de Software.csproj",
       "projectName": "Desenvolvimento de Software",
-      "projectPath": "/Users/carlosneres/OneDrive/Universidade Positivo/2021.2/Desenvolvimento/Desenvolvimento de Software/Desenvolvimento de Software.csproj",
-      "packagesPath": "/Users/carlosneres/.nuget/packages/",
-      "outputPath": "/Users/carlosneres/OneDrive/Universidade Positivo/2021.2/Desenvolvimento/Desenvolvimento de Software/obj/",
+      "projectPath": "C:\\Users\\gabri\\OneDrive\\Faculdade\\2021 - 2 Semestre\\Desenvolvimento de Software\\PetShop\\petshop\\Desenvolvimento de Software.csproj",
+      "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gabri\\OneDrive\\Faculdade\\2021 - 2 Semestre\\Desenvolvimento de Software\\PetShop\\petshop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/carlosneres/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

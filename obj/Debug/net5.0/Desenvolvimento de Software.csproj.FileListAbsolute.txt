@@ -1,0 +1,40 @@
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\PetShop\petshop\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\PetShop\petshop\bin\Debug\net5.0\appsettings.json
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\PetShop\petshop\bin\Debug\net5.0\Desenvolvimento de Software.exe
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\PetShop\petshop\bin\Debug\net5.0\Desenvolvimento de Software.deps.json
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\PetShop\petshop\bin\Debug\net5.0\Desenvolvimento de Software.runtimeconfig.json
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\PetShop\petshop\bin\Debug\net5.0\Desenvolvimento de Software.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\PetShop\petshop\bin\Debug\net5.0\Desenvolvimento de Software.dll
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\PetShop\petshop\bin\Debug\net5.0\ref\Desenvolvimento de Software.dll
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\PetShop\petshop\bin\Debug\net5.0\Desenvolvimento de Software.pdb
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\PetShop\petshop\bin\Debug\net5.0\Desenvolvimento de Software.Views.dll
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\PetShop\petshop\bin\Debug\net5.0\Desenvolvimento de Software.Views.pdb
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\PetShop\petshop\obj\Debug\net5.0\Desenvolvimento de Software.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\PetShop\petshop\obj\Debug\net5.0\Desenvolvimento de Software.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\PetShop\petshop\obj\Debug\net5.0\Desenvolvimento de Software.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\PetShop\petshop\obj\Debug\net5.0\Desenvolvimento de Software.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\PetShop\petshop\obj\Debug\net5.0\Desenvolvimento de Software.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\PetShop\petshop\obj\Debug\net5.0\Desenvolvimento de Software.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\PetShop\petshop\obj\Debug\net5.0\Desenvolvimento de Software.RazorAssemblyInfo.cache
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\PetShop\petshop\obj\Debug\net5.0\Desenvolvimento de Software.RazorAssemblyInfo.cs
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\PetShop\petshop\obj\Debug\net5.0\staticwebassets\Desenvolvimento de Software.StaticWebAssets.Manifest.cache
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\PetShop\petshop\obj\Debug\net5.0\staticwebassets\Desenvolvimento de Software.StaticWebAssets.xml
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\PetShop\petshop\obj\Debug\net5.0\scopedcss\bundle\Desenvolvimento de Software.styles.css
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\PetShop\petshop\obj\Debug\net5.0\Desenvolvimento de Software.TagHelpers.input.cache
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\PetShop\petshop\obj\Debug\net5.0\Desenvolvimento de Software.TagHelpers.output.cache
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\PetShop\petshop\obj\Debug\net5.0\Desenvolvimento de Software.RazorCoreGenerate.cache
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\PetShop\petshop\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\PetShop\petshop\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\PetShop\petshop\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\PetShop\petshop\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\PetShop\petshop\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\PetShop\petshop\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\PetShop\petshop\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\PetShop\petshop\obj\Debug\net5.0\Desenvolvimento de Software.RazorTargetAssemblyInfo.cache
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\PetShop\petshop\obj\Debug\net5.0\Desenvolvimento de Software.RazorTargetAssemblyInfo.cs
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\PetShop\petshop\obj\Debug\net5.0\Desenvolvimento de Software.Views.pdb
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\PetShop\petshop\obj\Debug\net5.0\Desenvolvimento de Software.dll
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\PetShop\petshop\obj\Debug\net5.0\ref\Desenvolvimento de Software.dll
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\PetShop\petshop\obj\Debug\net5.0\Desenvolvimento de Software.pdb
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\PetShop\petshop\obj\Debug\net5.0\Desenvolvimento de Software.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Faculdade\2021 - 2 Semestre\Desenvolvimento de Software\PetShop\petshop\obj\Debug\net5.0\Desenvolvimento de Software.csproj.CopyComplete
